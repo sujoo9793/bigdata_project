@@ -1,8 +1,10 @@
-서울시 주요 지천 수질과 환경 요인의 상관관계 분석 보고서
+Project Title: Correlation Analysis Between Water Quality and Environmental Factors in Major Streams of Seoul
 
-프로젝트 주제:서울 주요 하천 5개의 수질 데이터(TEMP, pH, DO, TN, TP, TOC)와 
-환경 요인(기온, 강수량, 풍속)의 상관관계를 분석하여, 수질 및 환경 영향 요소의 연관성을 
-시각화 및 회귀 분석 등을 통해 도출할 것이다.
+Project Overview:
+This study investigates the relationships between water quality parameters (TEMP, pH, DO, TN, TP, TOC) and environmental factors 
+(temperature, precipitation, wind speed) in five major streams in Seoul. By employing correlation analysis, visualization techniques, and regression modeling, 
+the project aims to uncover insights into how environmental factors influence water quality. 
+The findings will provide a data-driven understanding of stream ecosystem dynamics and inform sustainable water resource management strategies.
 
 
 main code file
